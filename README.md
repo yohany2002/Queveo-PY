@@ -10,3 +10,7 @@ Este proyecto es útil porque puede ayudar a las personas que buscan películas 
 ## Files
 En este repositorio se encuentran 2 archivos principales, el primero es archivo en Python con el código para implementar los 2 métodos y obtener las diferentes agrupaciones dependiendo del método que se elija utilizar y el número de clusteres en los que se deseen agrupar. Este archivo se llama "Proyecto Queveo-PY.ipynb".
 Por otro lado, también está el dataset original, el cual es "Highest Holywood Grossing Movies.csv".
+
+## Funcionamiento
+A continuación se adjunta el link del funcionamiento de este proyecto:
+[Click aquí](http://handlebarsjs.com/)
